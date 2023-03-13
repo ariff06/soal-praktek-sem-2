@@ -6,7 +6,7 @@ list_cash_flow = [
   total_pemasukan   = ...
   for (let x in ... )
   {
-    if (x > 0)
+    if (list_cash_flow[...] > 0)
     {
       // Jumlahkan bilangan positif (total pemasukan)
       .. += list_cash_flow[...]
